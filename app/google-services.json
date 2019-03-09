@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "946969643693",
+    "firebase_url": "https://uw-rate-em-app.firebaseio.com",
+    "project_id": "uw-rate-em-app",
+    "storage_bucket": "uw-rate-em-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946969643693:android:d4a7e1578f4c721a",
+        "android_client_info": {
+          "package_name": "uwrateem.app.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946969643693-72qg726tfes3p8btfqrhqmiuh34h8cl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo0iUZ6a-uavFJOvq_oS_b2wXPhq7ijYI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
